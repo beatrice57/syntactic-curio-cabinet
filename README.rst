@@ -17,7 +17,7 @@ Citation
 Beatrice Santorini (compiler).
 Ongoing.
 Syntactic curio cabinet.
-<https://github.com/beatrice57/syntactic-curio-cabinet>
+https://github.com/beatrice57/syntactic-curio-cabinet
 
 Contact
 ========
